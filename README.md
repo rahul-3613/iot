@@ -52,7 +52,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
   </em>
 </p>
 
-
+---
 
 ### 🟨 3. Circuit Wiring Layout — *Sensors + Microcontroller Overview*
 
