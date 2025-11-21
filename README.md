@@ -1,7 +1,7 @@
 <h1 align="center">🔌 IoT Smart Projects Hub</h1>
 <h3 align="center">Future-Ready • Smart • Connected</h3>
 
-
+---
 
 <!-- 🌈 Gradient Divider -->
 <p align="center">
