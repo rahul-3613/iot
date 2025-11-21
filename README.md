@@ -41,7 +41,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 ### 🟩 2. Live Sensor Dashboard — *Real-Time Monitoring*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85627085/235443559-a2a7fdfc-966e-4357-b004-9edb3c93a655.png" width="820" />
+  <img src="https://user-images.githubusercontent.com/85627085/235443559-a2a7fdfc-966e-4357-b004-9edb3c93a655.png" width="420" />
 </p>
 
 <p align="center">
