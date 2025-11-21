@@ -52,18 +52,12 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
   </em>
 </p>
 
----
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/---Hardware%20Setup---_-38bdf8?style=flat-square" />
-</p>
-
----
 
 ### 🟨 3. Circuit Wiring Layout — *Sensors + Microcontroller Overview*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85627085/235187067-c6bc9a3e-2112-49f5-962f-e3123f8fb0d5.png" width="620" />
+  <img src="https://user-images.githubusercontent.com/85627085/235187067-c6bc9a3e-2112-49f5-962f-e3123f8fb0d5.png" width="420" />
 </p>
 
 <p align="center">
@@ -76,11 +70,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 
 ---
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/---Final%20Output---_-a855f7?style=flat-square" />
-</p>
 
----
 
 ### 🟥 4. Final Working Setup — *Fully Functional IoT Device*
 
@@ -98,6 +88,4 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-End%20of%20Preview-6366f1?style=for-the-badge" />
-</p>
+
