@@ -80,5 +80,13 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 </p>
 
 ---
+---
+
+<h2 align="center">✨ Project Author ✨</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Created%20By-Rahul%20Shingha-ff5f6d?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 
