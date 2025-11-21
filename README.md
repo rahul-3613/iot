@@ -29,14 +29,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
   </em>
 </p>
 
----
 
-<!-- ✨ Soft Divider -->
-<p align="center">  
-  <img src="https://img.shields.io/badge/---Next%20Step---_-ff6ec7?style=flat-square" />
-</p>
-
----
 
 ### 🟩 2. Live Sensor Dashboard — *Real-Time Monitoring*
 
