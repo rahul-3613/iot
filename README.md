@@ -1,7 +1,7 @@
 <h1 align="center">🔌 IoT Smart Projects Hub</h1>
 <h3 align="center">Future-Ready • Smart • Connected</h3>
 
----
+
 
 <!-- 🌈 Gradient Divider -->
 <p align="center">
@@ -18,7 +18,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 ### 🟦 1. ESP32 Control Panel — *Core Brain of the IoT System*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85627085/235192027-edc61f5f-6932-4436-9cac-e4d0db5209d3.png" width="820" />
+  <img src="https://user-images.githubusercontent.com/85627085/235192027-edc61f5f-6932-4436-9cac-e4d0db5209d3.png" width="620" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 ### 🟩 2. Live Sensor Dashboard — *Real-Time Monitoring*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85627085/235443559-a2a7fdfc-966e-4357-b004-9edb3c93a655.png" width="420" />
+  <img src="https://user-images.githubusercontent.com/85627085/235443559-a2a7fdfc-966e-4357-b004-9edb3c93a655.png" width="320" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 ### 🟨 3. Circuit Wiring Layout — *Sensors + Microcontroller Overview*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85627085/235187067-c6bc9a3e-2112-49f5-962f-e3123f8fb0d5.png" width="820" />
+  <img src="https://user-images.githubusercontent.com/85627085/235187067-c6bc9a3e-2112-49f5-962f-e3123f8fb0d5.png" width="620" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Beautiful visualization of different IoT stages — from sensor setup to automat
 ### 🟥 4. Final Working Setup — *Fully Functional IoT Device*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85627085/235177985-42b9792e-5ec4-468d-8ad0-ee05d52e814b.png" width="820" />
+  <img src="https://user-images.githubusercontent.com/85627085/235177985-42b9792e-5ec4-468d-8ad0-ee05d52e814b.png" width="620" />
 </p>
 
 <p align="center">
